@@ -1,6 +1,8 @@
 # eas
 Emergency alert system - Provide care and instructions during and after an emergency.
+
 This is a long-term project. I created a repository because I would likely forget the idea.
+
 I don't know who would be interested in the project. Probably schools, companies and maybe even governmental organizations. The project should be scalable for every kind of organization.
 
 ## Project goals
